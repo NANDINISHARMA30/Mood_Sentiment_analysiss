@@ -1,7 +1,7 @@
 
  🌙 Mood & Sentiment Analysis
 AI-powered Emotion & Sentiment Detection System
-<p align="center"> <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" /> <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Machine%20Learning-Sentiment%20Analysis-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JS-yellow?style=for-the-badge" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" /> <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Machine%20Learning-Sentiment%20Analysis-orange?style=for-the-badge" />  </p>
 📌 Project Overview
 
 Mood & Sentiment Analysis is an AI-based system that identifies human emotions and sentiment polarity (positive, negative, neutral) using machine learning and natural language processing (NLP).
@@ -23,4 +23,5 @@ Predict sentiment from text
 Provide dashboards & insights
 
 Enable real-time or batch mood classification
+
 
