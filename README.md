@@ -24,4 +24,35 @@ Provide dashboards & insights
 
 Enable real-time or batch mood classification
 
+#Project Structure
+Mood_Sentiment_analysiss/
+│
+├── backend/
+│   ├── app.py                # Flask API for predictions
+│   ├── preprocess.py         # Text cleaning, tokenizing
+│   ├── model.pkl             # Trained machine learning model
+│   └── requirements.txt
+│
+├── frontend/
+│   ├── index.html            # UI page
+│   ├── style.css
+│   ├── script.js             # API integration
+│   └── assets/
+│
+├── models/
+│   └── trained_model.pkl     # Final saved model
+│
+├── data/
+│   └── dataset.csv           # Sentiment dataset
+│
+├── notebooks/
+│   └── model_training.ipynb  # Training steps
+│
+├── docs/
+│   └── architecture.png
+│
+└── README.md
+
+
+
 
